@@ -47,7 +47,7 @@ Decision nodes – typically represented by squares
 Chance nodes – typically represented by circles
 End nodes – typically represented by triangles
 
-<img src="./pics/Decision_tree_schema.png" alt="Decision_tree_schema"/>
+<img src="./pics/Decision_tree_schema.PNG" alt="Decision_tree_schema"/>
 
  # Data
 
@@ -97,30 +97,30 @@ this section will show how to perform a classification decision tree on the medi
 
 Let’s start by exploring the data by calculating the 5 numbers summary of each variable.
 
-<img src="./pics/5NumberSummary.png" alt="5NumberSummary"/>
+<img src="./pics/5NumberSummary.PNG" alt="5NumberSummary"/>
 
 As we can see the data is cleaned and there are not extreme values.
 
 Now, let’s explore the date frame.
 
-<img src="./pics/DataFrame.png" alt="DataFrame"/>
+<img src="./pics/DataFrame.PNG" alt="DataFrame"/>
 
 
 We can see that the NPS which is a class variable is an INT, however It needs to be a converted into categorical variable to predict.
 
-<img src="./pics/DataFrame2.png" alt="DataFrame2"/>
+<img src="./pics/DataFrame2.PNG" alt="DataFrame2"/>
 
 In order to perform the decision trees we will need to split the dataset in 2. The training dataset and the test dataset for validation. In this instance, the weight of the training is 80% and the validation is 20%.
 
-<img src="./pics/trainValidation.png" alt="trainValidation"/>
+<img src="./pics/trainValidation.PNG" alt="trainValidation"/>
 
 Now we can start training the model.
 
-<img src="./pics/DecisionTrees.png" alt="DecisionTrees"/>
+<img src="./pics/DecisionTrees.PNG" alt="DecisionTrees"/>
 
 Confusion matrix[4] of the model training data.
 
-<img src="./pics/confusionMatrix1.png" alt="confusionMatrix1"/>
+<img src="./pics/confusionMatrix1.PNG" alt="confusionMatrix1"/>
 
 Calculate classification accuracy = 0.8393481
 
@@ -128,7 +128,7 @@ classification error =  0.1606519
 
 Confusion matrix of the model trained model with test data set
 
-<img src="./pics/confusionMatrix2.png" alt="confusionMatrix2"/>
+<img src="./pics/confusionMatrix2.PNG" alt="confusionMatrix2"/>
 
 Calculate classification accuracy = 0.8063725
 
