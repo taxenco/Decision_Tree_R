@@ -20,7 +20,7 @@ The project consists of implementing decision tress for classification and regre
 
 # Objective of the project
 
-This project will implement a decision algorithm on a medical dataset for classification and regression purposes to classify Fetal case (NSP) and prediction to which of the following categories will the fetal case belong to:
+This project will implement a classification Decision Tree algorithm on a Fetal cardiology medical dataset. It will classify the Fetal case (NSP) and predict to which of the following categories will the fetal case belong to:
 
 N=normal (1);
 
@@ -51,7 +51,7 @@ End nodes – typically represented by triangles
 
  # Data
 
-The data selected is a Fetal cardiology medical dataset found on:
+The data selected is a Fetal cardiology dataset found on:
 
 https://archive.ics.uci.edu/ml/datasets/cardiotocography
 
