@@ -142,10 +142,10 @@ The implementation of the classification decision trees has achieved its purpose
 
 # References
 
-1 - https://en.wikipedia.org/wiki/Decision_tree
-2 - MSc Data science notes, Salford University. Classification: Decision trees
-3 - https://cran.r-project.org/web/packages/party/index.html
-4 - https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/
+* 1 - https://en.wikipedia.org/wiki/Decision_tree
+* 2 - MSc Data science notes, Salford University. Classification: Decision trees
+* 3 - https://cran.r-project.org/web/packages/party/index.html
+* 4 - https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/
 
 # Built With
 
