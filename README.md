@@ -43,10 +43,6 @@ The decision-maker employs decision trees to identify the strategy which will mo
 
 A decision tree consists of three types of nodes[1]: 
 
-Decision nodes – typically represented by squares
-Chance nodes – typically represented by circles
-End nodes – typically represented by triangles
-
 <img src="./pics/Decision_tree_schema.PNG" alt="Decision_tree_schema"/>
 
  # Data
