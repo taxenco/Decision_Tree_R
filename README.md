@@ -160,4 +160,4 @@ Carlos Beltran.
 
 # Acknowledgments
 
-The authors would like to thank Salford University.
+The author would like to thank Salford University.
